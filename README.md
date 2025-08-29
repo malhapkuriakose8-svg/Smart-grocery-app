@@ -1,2 +1,8 @@
-# Smart-grocery-app
-A digital grocery shopping app designed to enhance user experience with personalized recommendations, real-time inventory tracking, and streamlined checkout.”
+Smart-Grocery-App/
+├── README.md
+├── wireframes/
+│   └── app_screens.png
+├── docs/
+│   └── product_roadmap.pdf
+└── sql/
+    └── sample_queries.sql
